@@ -1,0 +1,1 @@
+to make puzzles deeper than just teleporting to the exit we had to include surfaces that wont hold a portal which are formally introduced here we experimented with several surface designs before we settled on this one whose visual noise and reflectivity make it easy to identify at a distance

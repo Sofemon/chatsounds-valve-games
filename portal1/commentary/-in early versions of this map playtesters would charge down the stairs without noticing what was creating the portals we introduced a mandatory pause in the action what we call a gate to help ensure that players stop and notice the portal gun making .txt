@@ -1,0 +1,1 @@
+in early versions of this map playtesters would charge down the stairs without noticing what was creating the portals we introduced a mandatory pause in the action what we call a gate to help ensure that players stop and notice the portal gun making a blue portal a particle effect and a loud noise help draw their attention

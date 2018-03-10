@@ -1,0 +1,1 @@
+a problem we came across with virtually any puzzle involving boxes and doors was that players could portal the boxes to the other side of the door thereby trapping themselves in a room with buttons but no boxes we set up special triggers to detect and handle these cases and then added the box delivery tubes to ensure players could always be supplied with the required tools

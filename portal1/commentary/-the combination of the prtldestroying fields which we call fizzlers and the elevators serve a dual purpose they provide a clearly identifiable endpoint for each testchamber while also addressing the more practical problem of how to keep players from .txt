@@ -1,0 +1,1 @@
+the combination of the prtldestroying fields which we call fizzlers and the elevators serve a dual purpose they provide a clearly identifiable endpoint for each testchamber while also addressing the more practical problem of how to keep players from portaling across level loads we eventually integrated the fizzlers into several of our puzzle designs

@@ -1,0 +1,1 @@
+originally these exit portal surfaces were static geometry in the final position but playtesters stubbornly refused to look up to find them this is another example of the classic gamedesign problem of coaxing players to look up by putting the portals on moving pistons we were able to start them in a position that players were more likely to see

@@ -1,0 +1,1 @@
+portal is effectively an extended player training exercise we spend a huge portion of the game introducing a series of gameplay tools then layering these tools into increasingly difficult puzzles this layering starts here where we train the buttonbox mechanic before introducing the more complicated concept of portals
